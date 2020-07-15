@@ -9,4 +9,4 @@ Bot twitter
 
 #3_It follows '#bonjour_monde'
 
-#4_It likes and follo on live '#bonjour_monde'
+#4_It likes and follows on live '#bonjour_monde'
